@@ -17,7 +17,7 @@ The app supports registration, authentication, authorization (that based to role
 
  ## <img height="30" src="https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18383.jpg?w=2000" width="30"/> Technologies used:
 
-- <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="36"/> Java (version 18.0.1)
+- <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="36"/> Java (version 11)
 - <img height="30" src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/6ca8194c-164f-4718-930a-2bed171d0430/1359200834/apache-maven-maven-logo.png" width="36"/> Maven (version 3.11.4)
 - <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGDWZvGnIggXi_v9xMGaW9qZrlPaFz_Cjjw&usqp=CAU" width="36"/> JDBC for connection to DB
 - <img height="30" src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67" width="36"/> MySQL as database (version 8.0.22)
